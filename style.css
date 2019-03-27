@@ -1,0 +1,352 @@
+body{
+	padding: 0;
+	margin: 0;
+	color: #2b2b28;
+	font-family: 'Montserrat', sans-serif;
+	overflow-x: hidden;
+
+	/*font-family: 'Roboto', sans-serif;
+	font-family: 'Sarabun', sans-serif;
+	
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Montserrat', sans-serif;*/
+
+
+}
+
+.nav-top{
+	padding-right: 0;
+}
+
+
+
+
+.logo{
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	font-family: 'Montserrat', sans-serif;
+	color: grey;
+	font-size: 1.2rem;
+
+}
+
+.logo:hover{
+	color: black;
+	text-decoration: none;
+}
+
+
+
+
+.exec{
+	font-family: font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+}
+
+.nav-settings li{
+	padding: 1rem;
+	border:0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	
+}
+
+
+
+
+.img-header{
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+
+.new{
+	position: relative;
+	overflow: hidden;
+}
+
+.post{
+	position: absolute;
+	top: 5rem;
+	left: 2rem;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+h3{
+	font-size: 2.1rem;
+	font-weight: 700;
+}
+
+.sign-up{
+	margin: 0.5rem;
+}
+
+
+					/*Section 2*/
+
+.second{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+
+}
+.header{
+text-align: center;
+font-size: 2rem;
+color: #2b2b28;
+}
+
+.second .top-head{
+	text-align: center;
+	color: grey;
+	font-size: 1rem;
+}
+
+
+.row{
+	margin-top: 3rem;
+}
+
+.second div p{
+	padding: 8%;
+	padding-top: 0;
+	font-weight: 200;
+}
+
+.second div h4{
+	
+	padding-top: 1%;
+	font-weight: 500;
+	margin-top: 1rem;
+	font-size: 1.3em;
+
+}
+
+.second .row div i{
+	color: 
+
+}
+
+.second .row div img{
+	width: 64px;
+	height: auto;
+}
+
+.second h2{
+	margin-top: 2rem;
+	font-weight: 600;
+}
+
+.compass:hover{
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/new-compass.png");
+}
+
+.destination:hover{
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/destination (2).png");
+}
+
+.world:hover{
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/world (1).png");
+}
+
+.map-location:hover{
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/map-location (1).png");
+}
+
+.interview:hover{
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/interview (2).png");
+}
+
+.building:hover{
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/building (1).png");
+}
+
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  opacity:0.8;}
+
+
+																				/*Section3 */
+
+.third{
+	text-align: center;
+	height: auto;
+	width: 100%;
+	background-image: url("C:/Users/Anas/Desktop/Executive Website/8478.jpg") ;
+
+
+}
+
+.third h6{
+	line-height: 1.5;
+
+
+}
+
+
+
+.paper{
+font-weight: 600;
+
+}
+
+
+
+
+.box-1{
+
+width: 300px;
+height: auto;
+display: inline-block;
+padding:10px;
+border-radius: 25px;
+margin: 35px;
+cursor: pointer;
+
+}
+
+
+.box-1:hover{
+	transition: 0.6s;
+	transform: scale(1.1);
+}
+
+.box-1 img{
+	width: 35px;
+	height: 35px;
+	
+	
+	}
+
+
+.box-1 span{
+
+	display: inline-block;
+	vertical-align: middle;
+	font-weight: 600;
+	/*margin-top: 15px;*/
+	}
+
+
+	.work-ethics{
+	text-align: center;}
+
+.fourth img{
+width: 639.9px;
+height: 426px;
+float: left;
+border-radius: 05px;
+margin-right: 20px;
+}
+
+
+
+.fourth p{
+	padding: 1rem;
+	padding-top: 0;
+	padding-right: 4rem;
+	padding-bottom: 0;
+}
+
+
+
+
+.fourth {
+	
+	height: auto;
+	background-color: #fff;
+}
+
+.fourth h3{
+	font-size: 6rem;
+	opacity: 0.2;
+}
+
+.fourth h4{
+	font-weight: 600;
+}
+
+
+
+/*4-2*/
+
+.container22{
+	position: relative;
+	overflow: hidden;
+}
+
+
+.text{
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	z-index: 1;
+	width: 40%;
+}
+
+.fourth-2 .text p{
+	padding: 1rem;
+	padding-top: 0;
+	padding-right: 4rem;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+
+
+
+
+
+.fourth-2 .text h3{
+	font-size: 6rem;
+	opacity: 0.2;
+}
+
+.fourth-2 .text h4{
+	font-weight: 600;
+}
+
+
+.fourth-3 img{
+width: 639.9px;
+height: 426px;
+float: right;
+border-radius: 05px;
+margin-right: 20px;
+}
+
+
+
+.fourth-3 p{
+	padding-left:0;
+	padding-top: 0;
+	padding-right: 4rem;
+	padding-bottom: 0;
+}
+
+
+
+
+.fourth-3 {
+	
+	height: auto;
+	background-color: #fff;
+}
+
+.fourth-3 h3{
+	font-size: 6rem;
+	opacity: 0.2;
+}
+
+.fourth-3 h4{
+	font-weight: 600;
+}
+
+
